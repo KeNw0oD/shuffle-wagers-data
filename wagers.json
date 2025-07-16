@@ -1,114 +1,30 @@
 [
-  {
-    "user": "Algod7",
-    "wager": "$91,910.47"
-  },
-  {
-    "user": "Fortuneuh",
-    "wager": "$45,521.37"
-  },
-  {
-    "user": "Zea",
-    "wager": "$44,523.66"
-  },
-  {
-    "user": "elcaymanos",
-    "wager": "$17,560.90"
-  },
-  {
-    "user": "RageQuit",
-    "wager": "$19,344.14"
-  },
-  {
-    "user": "santosamayaa",
-    "wager": "$12,646.19"
-  },
-  {
-    "user": "n1kew",
-    "wager": "$20,028.09"
-  },
-  {
-    "user": "LeGeNdA78",
-    "wager": "$34,005.95"
-  },
-  {
-    "user": "Odetta",
-    "wager": "$6,497.11"
-  },
-  {
-    "user": "7thSON",
-    "wager": "$9,284.60"
-  },
-  {
-    "user": "KoRoMa",
-    "wager": "$3,763.94"
-  },
-  {
-    "user": "Varcowskilegend",
-    "wager": "$3,977.77"
-  },
-  {
-    "user": "Trump2025",
-    "wager": "$7,011.62"
-  },
-  {
-    "user": "NRUSINGHAs",
-    "wager": "$7,186.61"
-  },
-  {
-    "user": "Algorant",
-    "wager": "$3,092.29"
-  },
-  {
-    "user": "AnastasiyaGirl",
-    "wager": "$2,304.57"
-  },
-  {
-    "user": "DGambler",
-    "wager": "$2,917.64"
-  },
-  {
-    "user": "spoonsoon",
-    "wager": "$4,402.07"
-  },
-  {
-    "user": "Psegaatti",
-    "wager": "$2,909.96"
-  },
-  {
-    "user": "jackpotDream",
-    "wager": "$3,174.29"
-  },
-  {
-    "user": "LaGrosseChatte",
-    "wager": "$712.72"
-  },
-  {
-    "user": "LastAutumn",
-    "wager": "$925.71"
-  },
-  {
-    "user": "BreakTheAlgo",
-    "wager": "$1,004.72"
-  },
-  {
-    "user": "Kelemandjar0x",
-    "wager": "$611.94"
-  },
-  {
-    "user": "Lang9rr",
-    "wager": "$710.52"
-  },
-  {
-    "user": "algo7fangirl",
-    "wager": "$1,517.87"
-  },
-  {
-    "user": "Ars47x",
-    "wager": "$1,636.69"
-  },
-  {
-    "user": "wenfcknsen",
-    "wager": "$2,330.08"
-  }
+  { "user": "Lang9rr", "wager": "$710.52" },
+  { "user": "Algod7", "wager": "$91,910.47" },
+  { "user": "Fortuneuh", "wager": "$45,521.37" },
+  { "user": "Zea", "wager": "$44,523.66" },
+  { "user": "elcaymanos", "wager": "$17,560.90" },
+  { "user": "RageQuit", "wager": "$19,344.14" },
+  { "user": "santosamayaa", "wager": "$12,646.19" },
+  { "user": "n1kew", "wager": "$20,028.09" },
+  { "user": "LeGeNdA78", "wager": "$34,005.95" },
+  { "user": "Odetta", "wager": "$6,497.11" },
+  { "user": "7thSON", "wager": "$9,284.60" },
+  { "user": "KoRoMa", "wager": "$3,763.94" },
+  { "user": "Varcowskilegend", "wager": "$3,977.77" },
+  { "user": "Trump2025", "wager": "$7,011.62" },
+  { "user": "NRUSINGHAs", "wager": "$7,186.61" },
+  { "user": "Algorant", "wager": "$3,092.29" },
+  { "user": "AnastasiyaGirl", "wager": "$2,304.57" },
+  { "user": "DGambler", "wager": "$2,917.64" },
+  { "user": "spoonsoon", "wager": "$4,402.07" },
+  { "user": "Psegaatti", "wager": "$2,909.96" },
+  { "user": "jackpotDream", "wager": "$3,174.29" },
+  { "user": "LaGrosseChatte", "wager": "$712.72" },
+  { "user": "LastAutumn", "wager": "$925.71" },
+  { "user": "BreakTheAlgo", "wager": "$1,004.72" },
+  { "user": "Kelemandjar0x", "wager": "$611.94" },
+  { "user": "algo7fangirl", "wager": "$1,517.87" },
+  { "user": "Ars47x", "wager": "$1,636.69" },
+  { "user": "wenfcknsen", "wager": "$2,330.08" }
 ]

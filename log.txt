@@ -1,0 +1,164 @@
+🧠 Запуск сбора данных...
+🔍 Проверяем: Algod7
+✅ Algod7: $97,155.86
+🔍 Проверяем: Fortuneuh
+✅ Fortuneuh: $47,075.26
+🔍 Проверяем: Zea
+✅ Zea: $157,186.82
+🔍 Проверяем: elcaymanos
+✅ elcaymanos: $39,155.00
+🔍 Проверяем: RageQuit
+✅ RageQuit: $62,810.36
+🔍 Проверяем: santosamayaa
+✅ santosamayaa: $12,646.19
+🔍 Проверяем: n1kew
+✅ n1kew: $43,306.22
+🔍 Проверяем: LeGeNdA78
+✅ LeGeNdA78: $77,277.97
+🔍 Проверяем: Odetta
+✅ Odetta: $7,220.88
+🔍 Проверяем: 7thSON
+✅ 7thSON: $11,196.69
+🔍 Проверяем: KoRoMa
+✅ KoRoMa: $3,968.92
+🔍 Проверяем: Varcowskilegend
+✅ Varcowskilegend: $14,277.96
+🔍 Проверяем: Trump2025
+✅ Trump2025: $14,788.09
+🔍 Проверяем: NRUSINGHAs
+✅ NRUSINGHAs: $10,626.46
+🔍 Проверяем: Algorant
+✅ Algorant: $3,093.90
+🔍 Проверяем: AnastasiyaGirl
+✅ AnastasiyaGirl: $2,307.49
+🔍 Проверяем: DGambler
+✅ DGambler: $2,919.41
+🔍 Проверяем: spoonsoon
+✅ spoonsoon: $5,509.72
+🔍 Проверяем: Psegaatti
+✅ Psegaatti: $5,969.84
+🔍 Проверяем: jackpotDream
+✅ jackpotDream: $3,650.79
+🔍 Проверяем: LaGrosseChatte
+✅ LaGrosseChatte: $712.72
+🔍 Проверяем: LastAutumn
+✅ LastAutumn: $7,156.21
+🔍 Проверяем: BreakTheAlgo
+✅ BreakTheAlgo: $4,089.74
+🔍 Проверяем: Kelemandjar0x
+✅ Kelemandjar0x: $611.94
+🔍 Проверяем: Lang9rr
+✅ Lang9rr: $1,139.10
+🔍 Проверяем: algo7fangirl
+✅ algo7fangirl: $1,519.70
+🔍 Проверяем: Ars47x
+✅ Ars47x: $1,644.32
+🔍 Проверяем: wenfcknsen
+✅ wenfcknsen: $3,820.91
+
+📦 Готово! Сохранено в wagers.json
+🚀 Обновляем GitHub...
+[master af6c550] 📊 auto-update wagers.json
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+To https://github.com/KeNw0oD/shuffle-wagers-data.git
+   5ebb194..af6c550  master -> master
+✅ Готово! Сайт обновится через минуту.
+🧠 Запуск сбора данных...
+🔍 Проверяем: Algod7
+✅ Algod7: $97,155.86
+🔍 Проверяем: Fortuneuh
+✅ Fortuneuh: $47,075.26
+🔍 Проверяем: Zea
+✅ Zea: $157,186.82
+🔍 Проверяем: elcaymanos
+✅ elcaymanos: $39,155.00
+🔍 Проверяем: RageQuit
+✅ RageQuit: $62,810.36
+🔍 Проверяем: santosamayaa
+✅ santosamayaa: $12,646.19
+🔍 Проверяем: n1kew
+✅ n1kew: $43,306.22
+🔍 Проверяем: LeGeNdA78
+✅ LeGeNdA78: $77,277.97
+🔍 Проверяем: Odetta
+✅ Odetta: $7,220.88
+🔍 Проверяем: 7thSON
+✅ 7thSON: $11,196.69
+🔍 Проверяем: KoRoMa
+✅ KoRoMa: $3,968.92
+🔍 Проверяем: Varcowskilegend
+✅ Varcowskilegend: $14,277.96
+🔍 Проверяем: Trump2025
+✅ Trump2025: $14,788.09
+🔍 Проверяем: NRUSINGHAs
+✅ NRUSINGHAs: $10,626.46
+🔍 Проверяем: Algorant
+✅ Algorant: $3,093.90
+🔍 Проверяем: AnastasiyaGirl
+✅ AnastasiyaGirl: $2,307.49
+🔍 Проверяем: DGambler
+✅ DGambler: $2,919.41
+🔍 Проверяем: spoonsoon
+✅ spoonsoon: $5,509.72
+🔍 Проверяем: Psegaatti
+✅ Psegaatti: $5,969.84
+🔍 Проверяем: jackpotDream
+✅ jackpotDream: $3,650.79
+🔍 Проверяем: LaGrosseChatte
+✅ LaGrosseChatte: $712.72
+🔍 Проверяем: LastAutumn
+✅ LastAutumn: $7,156.21
+🔍 Проверяем: BreakTheAlgo
+✅ BreakTheAlgo: $4,089.74
+🔍 Проверяем: Kelemandjar0x
+✅ Kelemandjar0x: $611.94
+🔍 Проверяем: Lang9rr
+✅ Lang9rr: $1,139.10
+🔍 Проверяем: algo7fangirl
+✅ algo7fangirl: $1,519.70
+🔍 Проверяем: Ars47x
+✅ Ars47x: $1,644.32
+🔍 Проверяем: wenfcknsen
+✅ wenfcknsen: $3,820.91
+
+📦 Готово! Сохранено в wagers.json
+🚀 Обновляем GitHub...
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	collect.js
+	log.txt
+	node_modules/
+	package-lock.json
+	package.json
+	run-all.bat
+	update-and-push.bat
+	update-and-push.js
+	users.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+node:child_process:965
+    throw err;
+    ^
+
+Error: Command failed: git commit -m "📊 auto-update wagers.json"
+    at checkExecSyncError (node:child_process:890:11)
+    at execSync (node:child_process:962:15)
+    at Object.<anonymous> (/root/wager-collector/update-and-push.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 4434,
+  stdout: null,
+  stderr: null
+}
+
+Node.js v18.20.8
